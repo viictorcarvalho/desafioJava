@@ -1,4 +1,4 @@
-# desafioJava
+# Desafio Java
 
 Desafio de conhecimentos em java.
 
